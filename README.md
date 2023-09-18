@@ -1,6 +1,4 @@
-# npaperbot-telegram
-[![CI](https://github.com/ZaMaZaN4iK/npaperbot-telegram/workflows/Continuous%20integration/badge.svg)](https://github.com/ZaMaZaN4iK/npaperbot-telegram/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# Telegram bot
 
 ### What
 Search C++ proposals directly in Telegram.
