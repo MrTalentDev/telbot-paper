@@ -15,7 +15,6 @@ Older Rust compiler versions possibly able to build the project, but I didn't te
 
 ### How to run
 I recommend running this bot as a service(e.g. as systemd service) on a machine.
-Also, Docker images are available here: https://hub.docker.com/repository/docker/zamazan4ik/npaperbot-telegram
 
 ### Configuration
 The bot can be configured only with environment variables. For now there are we support the following variables:
